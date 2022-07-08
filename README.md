@@ -1,4 +1,4 @@
-# GARFIELD WHATSAPP USER BOT LATEST v8.3 (𝗙𝗜𝗫 𝗕𝗢𝗧 𝗦𝗧𝗧𝗢𝗣𝗜𝗡𝗚)
+# GARFIELD WHATSAPP USER BOT LATEST v8.3 (𝗙𝗜𝗫 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣𝗣𝗜𝗡𝗚)
 # 💯 Fix Bot stopping
 <img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
 
